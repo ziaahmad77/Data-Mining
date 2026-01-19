@@ -47,3 +47,4 @@ if hasil[0] == 1:
     print("\nPrediksi kondisi cuaca: HUJAN")
 else:
     print("\nPrediksi kondisi cuaca: TIDAK HUJAN")
+
